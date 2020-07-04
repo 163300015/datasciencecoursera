@@ -11,6 +11,6 @@
 ########### World 
 ############ brahamand
 ############# narak
-############# shivalay
+############# kailash
 ############## brahamloik
 ############### patal added

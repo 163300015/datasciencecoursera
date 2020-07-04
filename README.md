@@ -12,4 +12,5 @@
 ############ brahamand
 ############# heaven
 ############# shivalay
-############## brahamlok
+############## brahamloik
+############### patal added

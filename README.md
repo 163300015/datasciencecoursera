@@ -11,7 +11,5 @@
 ########### World 
 ############ Universe
 ############# heaven
-############# shivalay 
-############## vishnu lok 
-
-################ kumar 
+############# shivalay
+############## vishnulok 

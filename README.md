@@ -10,7 +10,7 @@
 ########## Uresia
 ########### World 
 ############ brahamand
-############# heaven
+############# narak
 ############# shivalay
 ############## brahamloik
 ############### patal added

@@ -12,4 +12,4 @@
 ############ Universe
 ############# heaven
 ############# shivalay
-############## vishnulok
+############## brahamlok

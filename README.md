@@ -12,4 +12,4 @@
 ############ brahamand
 ############# heaven
 ############# shivalay
-############## vishnulok
+############## brahamlok
